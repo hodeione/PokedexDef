@@ -59,9 +59,9 @@ public class MainActivity extends AppCompatActivity {
         btnVerFavoritos.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                // Abre la actividad de favoritos
-                Intent intent = new Intent(MainActivity.this, FavouritesActivity.class);
-                startActivity(intent);
+              //guardar el id del pokemon en una nbase de datos
+
+
             }
         });
 
