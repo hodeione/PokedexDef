@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="PokemonButton" parent="Widget.AppCompat.Button">
+        <item name="android:textSize">18sp</item> <!-- Tamaño del texto -->
+        <item name="android:background">@drawable/botoon</item> <!-- Fondo del botón personalizado -->
+    </style>
+
+</resources>
